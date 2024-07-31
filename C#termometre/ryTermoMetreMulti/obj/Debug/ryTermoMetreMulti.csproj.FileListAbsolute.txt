@@ -1,0 +1,32 @@
+C:\Repos\BIP2503 - 03.HAFTA\FINISHED\35_ryTermoMetreMulti\ryTermoMetreMulti\bin\Debug\ryTermoMetreMulti.exe.config
+C:\Repos\BIP2503 - 03.HAFTA\FINISHED\35_ryTermoMetreMulti\ryTermoMetreMulti\bin\Debug\ryTermoMetreMulti.exe
+C:\Repos\BIP2503 - 03.HAFTA\FINISHED\35_ryTermoMetreMulti\ryTermoMetreMulti\bin\Debug\ryTermoMetreMulti.pdb
+C:\Repos\BIP2503 - 03.HAFTA\FINISHED\35_ryTermoMetreMulti\ryTermoMetreMulti\obj\Debug\ryTermoMetreMulti.csprojAssemblyReference.cache
+C:\Repos\BIP2503 - 03.HAFTA\FINISHED\35_ryTermoMetreMulti\ryTermoMetreMulti\obj\Debug\ryTermoMetreMulti.anaForm.resources
+C:\Repos\BIP2503 - 03.HAFTA\FINISHED\35_ryTermoMetreMulti\ryTermoMetreMulti\obj\Debug\ryTermoMetreMulti.Properties.Resources.resources
+C:\Repos\BIP2503 - 03.HAFTA\FINISHED\35_ryTermoMetreMulti\ryTermoMetreMulti\obj\Debug\ryTermoMetreMulti.csproj.GenerateResource.cache
+C:\Repos\BIP2503 - 03.HAFTA\FINISHED\35_ryTermoMetreMulti\ryTermoMetreMulti\obj\Debug\ryTermoMetreMulti.csproj.CoreCompileInputs.cache
+C:\Repos\BIP2503 - 03.HAFTA\FINISHED\35_ryTermoMetreMulti\ryTermoMetreMulti\obj\Debug\ryTermoMetreMulti.exe
+C:\Repos\BIP2503 - 03.HAFTA\FINISHED\35_ryTermoMetreMulti\ryTermoMetreMulti\obj\Debug\ryTermoMetreMulti.pdb
+C:\Repos\BIP2503 - 04.HAFTA\FINISHED\40_ryTermoMetreMulti\ryTermoMetreMulti\bin\Debug\ryTermoMetreMulti.exe.config
+C:\Repos\BIP2503 - 04.HAFTA\FINISHED\40_ryTermoMetreMulti\ryTermoMetreMulti\bin\Debug\ryTermoMetreMulti.exe
+C:\Repos\BIP2503 - 04.HAFTA\FINISHED\40_ryTermoMetreMulti\ryTermoMetreMulti\bin\Debug\ryTermoMetreMulti.pdb
+C:\Repos\BIP2503 - 04.HAFTA\FINISHED\40_ryTermoMetreMulti\ryTermoMetreMulti\obj\Debug\ryTermoMetreMulti.csprojAssemblyReference.cache
+C:\Repos\BIP2503 - 04.HAFTA\FINISHED\40_ryTermoMetreMulti\ryTermoMetreMulti\obj\Debug\ryTermoMetreMulti.anaForm.resources
+C:\Repos\BIP2503 - 04.HAFTA\FINISHED\40_ryTermoMetreMulti\ryTermoMetreMulti\obj\Debug\ryTermoMetreMulti.Properties.Resources.resources
+C:\Repos\BIP2503 - 04.HAFTA\FINISHED\40_ryTermoMetreMulti\ryTermoMetreMulti\obj\Debug\ryTermoMetreMulti.csproj.GenerateResource.cache
+C:\Repos\BIP2503 - 04.HAFTA\FINISHED\40_ryTermoMetreMulti\ryTermoMetreMulti\obj\Debug\ryTermoMetreMulti.csproj.CoreCompileInputs.cache
+C:\Repos\BIP2503 - 04.HAFTA\FINISHED\40_ryTermoMetreMulti\ryTermoMetreMulti\obj\Debug\ryTermoMetreMulti.exe
+C:\Repos\BIP2503 - 04.HAFTA\FINISHED\40_ryTermoMetreMulti\ryTermoMetreMulti\obj\Debug\ryTermoMetreMulti.pdb
+C:\Repos\BIP2503 - 04.HAFTA\FINISHED\40_ryTermoMetreMulti\ryTermoMetreMulti\obj\Debug\ryTermoMetreMulti.termoForm.resources
+C:\Users\Semanur Gökırmak\Desktop\onurdangelenler\2int,c,2görsel\2int,c,2görsel\2int,c,2görsel\C PROGRAMLAMA\hafta4\BIP2503 - 04.HAFTA\FINISHED\40_ryTermoMetreMulti\ryTermoMetreMulti\bin\Debug\ryTermoMetreMulti.exe.config
+C:\Users\Semanur Gökırmak\Desktop\onurdangelenler\2int,c,2görsel\2int,c,2görsel\2int,c,2görsel\C PROGRAMLAMA\hafta4\BIP2503 - 04.HAFTA\FINISHED\40_ryTermoMetreMulti\ryTermoMetreMulti\bin\Debug\ryTermoMetreMulti.exe
+C:\Users\Semanur Gökırmak\Desktop\onurdangelenler\2int,c,2görsel\2int,c,2görsel\2int,c,2görsel\C PROGRAMLAMA\hafta4\BIP2503 - 04.HAFTA\FINISHED\40_ryTermoMetreMulti\ryTermoMetreMulti\bin\Debug\ryTermoMetreMulti.pdb
+C:\Users\Semanur Gökırmak\Desktop\onurdangelenler\2int,c,2görsel\2int,c,2görsel\2int,c,2görsel\C PROGRAMLAMA\hafta4\BIP2503 - 04.HAFTA\FINISHED\40_ryTermoMetreMulti\ryTermoMetreMulti\obj\Debug\ryTermoMetreMulti.csproj.AssemblyReference.cache
+C:\Users\Semanur Gökırmak\Desktop\onurdangelenler\2int,c,2görsel\2int,c,2görsel\2int,c,2görsel\C PROGRAMLAMA\hafta4\BIP2503 - 04.HAFTA\FINISHED\40_ryTermoMetreMulti\ryTermoMetreMulti\obj\Debug\ryTermoMetreMulti.anaForm.resources
+C:\Users\Semanur Gökırmak\Desktop\onurdangelenler\2int,c,2görsel\2int,c,2görsel\2int,c,2görsel\C PROGRAMLAMA\hafta4\BIP2503 - 04.HAFTA\FINISHED\40_ryTermoMetreMulti\ryTermoMetreMulti\obj\Debug\ryTermoMetreMulti.Properties.Resources.resources
+C:\Users\Semanur Gökırmak\Desktop\onurdangelenler\2int,c,2görsel\2int,c,2görsel\2int,c,2görsel\C PROGRAMLAMA\hafta4\BIP2503 - 04.HAFTA\FINISHED\40_ryTermoMetreMulti\ryTermoMetreMulti\obj\Debug\ryTermoMetreMulti.termoForm.resources
+C:\Users\Semanur Gökırmak\Desktop\onurdangelenler\2int,c,2görsel\2int,c,2görsel\2int,c,2görsel\C PROGRAMLAMA\hafta4\BIP2503 - 04.HAFTA\FINISHED\40_ryTermoMetreMulti\ryTermoMetreMulti\obj\Debug\ryTermoMetreMulti.csproj.GenerateResource.cache
+C:\Users\Semanur Gökırmak\Desktop\onurdangelenler\2int,c,2görsel\2int,c,2görsel\2int,c,2görsel\C PROGRAMLAMA\hafta4\BIP2503 - 04.HAFTA\FINISHED\40_ryTermoMetreMulti\ryTermoMetreMulti\obj\Debug\ryTermoMetreMulti.csproj.CoreCompileInputs.cache
+C:\Users\Semanur Gökırmak\Desktop\onurdangelenler\2int,c,2görsel\2int,c,2görsel\2int,c,2görsel\C PROGRAMLAMA\hafta4\BIP2503 - 04.HAFTA\FINISHED\40_ryTermoMetreMulti\ryTermoMetreMulti\obj\Debug\ryTermoMetreMulti.exe
+C:\Users\Semanur Gökırmak\Desktop\onurdangelenler\2int,c,2görsel\2int,c,2görsel\2int,c,2görsel\C PROGRAMLAMA\hafta4\BIP2503 - 04.HAFTA\FINISHED\40_ryTermoMetreMulti\ryTermoMetreMulti\obj\Debug\ryTermoMetreMulti.pdb
